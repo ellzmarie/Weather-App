@@ -1,3 +1,16 @@
 body {
-    background-color: gray;
+    background-image: linear-gradient(to right, #fee5e1, #6096fd);
+    text-align: center;
+    color: antiquewhite;
+    font-family: 'Bebas Neue', cursive;
+
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    color: antiquewhite;
+}
+
+.button, .input {
+    font-family: 'Bebas Neue', cursive;
 }
