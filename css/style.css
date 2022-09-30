@@ -3,14 +3,26 @@ body {
     text-align: center;
     color: antiquewhite;
     font-family: 'Bebas Neue', cursive;
-
+    font-size: 30px;
+    text-shadow: 3px 3px 3px #ababab;
 }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+  }
 
 h1 {
     font-family: 'Bebas Neue', cursive;
     color: antiquewhite;
+    font-size: 50px;
 }
 
 .button, .input {
     font-family: 'Bebas Neue', cursive;
+    color: lightsalmon;
 }
+
+/* Fonts from Google Fonts: https://fonts.google.com/specimen/Cute+Font */
+/* Photo from flaticon.com: <a href="https://www.flaticon.com/free-icons/cloudy" title="cloudy icons">Cloudy icons created by Freepik - Flaticon</a> */
